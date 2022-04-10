@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhong Cao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Post-doctoral
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: School of Vehicle and Mobility, Tsinghua University
+  url: http://www.svm.tsinghua.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Autonomous Vehicles
+- Trustworthy AI
+- Reinforcement Learning
+- Continous Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in School of Vehicle and Mobility
+    institution: Tsinghua University
+    year: 2015-2020
+  - course: Visiting Scholar in Mechanical Envineering
+    institution: University of Michigan (Ann Arbor)
+    year: 2017-2019
+  - course: BSc in Automotive Envineering
+    institution: Tsinghua University
+    year: 2011-2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
