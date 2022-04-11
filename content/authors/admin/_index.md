@@ -71,4 +71,4 @@ His research interests include autonomous vehicle, reinforcement learning, decis
 He received the Shuimu Fellowship in Tsinghua University in 2020.
 He was nominated as the Outstanding PhD dissertation award of the China Society of Automotive Engineers in 2021. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
